@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 
 <img width="550" alt="Manik Roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=SShohag&show_icons=true"/>
+
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=manik-roy&card_width=550)](https://github.com/manik-roy/manik-roy)
