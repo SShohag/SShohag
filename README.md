@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with how to make me a professional programmer 
 - 🥅 2021 goals: Learn React, vue, Redux
 - ⚡ Fun fact: I love to play Badminton and reading books.
-<br>
+
 ### Connect with me:
 
